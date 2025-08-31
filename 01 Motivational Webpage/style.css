@@ -1,0 +1,25 @@
+
+body{
+    background-color: rgb(2, 86, 92);
+}
+
+
+.quotes{
+    font-family: "Averia Libre", system-ui;
+    color: bisque;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    text-transform: capitalize;
+}
+
+h1{
+    text-transform: uppercase;
+}
+
+img{
+    border: 5px solid bisque;
+    border-radius: 10%;
+    width: 100%;
+    margin-top: 80px;
+}
